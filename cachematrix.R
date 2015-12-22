@@ -1,6 +1,6 @@
 ## Programming assignment 2 for the R course
 
-## An object that works with the inv matrix
+## A function that creates an object/list that works with the inv matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
@@ -17,7 +17,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Either calculates or returns the inverse of the matrix object
+## This function either calculates or returns a cache of the inverse of the matrix object
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
