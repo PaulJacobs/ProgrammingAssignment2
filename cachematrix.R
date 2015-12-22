@@ -1,4 +1,4 @@
-## Programming assignemnt 2 fopr the R course
+## Programming assignment 2 for the R course
 
 ## An object that works with the inv matrix
 
