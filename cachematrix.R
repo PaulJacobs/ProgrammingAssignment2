@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming assignemnt 2 fopr the R course
 
-## Write a short comment describing this function
+## An object that works with the inv matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
@@ -18,7 +17,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## Either calculates or returns the inverse of the matrix object
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
