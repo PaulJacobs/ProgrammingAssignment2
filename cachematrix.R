@@ -1,6 +1,6 @@
 ## Programming assignment 2 for the R course
 
-## A function that creates an object/list that works with the inv matrix
+## A function that creates an object/list that works with the inverse matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
